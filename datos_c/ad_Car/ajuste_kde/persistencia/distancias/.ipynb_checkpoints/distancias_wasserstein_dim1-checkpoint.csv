@@ -1,0 +1,16 @@
+,topology_ad_carcinoma_2_clean.csv,topology_ad_carcinoma_10_clean.csv,topology_ad_carcinoma_9_clean.csv,topology_ad_carcinoma_3_clean.csv,topology_ad_carcinoma_1_clean.csv,topology_ad_carcinoma_8_clean.csv,topology_ad_carcinoma_4_clean.csv,topology_ad_carcinoma_12_clean.csv,topology_ad_carcinoma_15_clean.csv,topology_ad_carcinoma_5_clean.csv,topology_ad_carcinoma_11_clean.csv,topology_ad_carcinoma_6_clean.csv,topology_ad_carcinoma_7_clean.csv,topology_ad_carcinoma_13_clean.csv,topology_ad_carcinoma_14_clean.csv
+topology_ad_carcinoma_2_clean.csv,0.0,inf,inf,inf,853.8377216965575,inf,1695.5022545981622,823.6466898497358,685.0609336272496,1521.487231709626,inf,1311.091785258081,1076.8369631724602,1611.9677526993596,inf
+topology_ad_carcinoma_10_clean.csv,inf,0.0,1075.793451055612,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+topology_ad_carcinoma_9_clean.csv,inf,1075.793451055612,0.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+topology_ad_carcinoma_3_clean.csv,inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf,1295.6124845701609,inf,inf,inf,inf
+topology_ad_carcinoma_1_clean.csv,853.8377216965575,inf,inf,inf,0.0,inf,1278.7342230432848,677.7732584985838,693.8415689197616,1050.2614515744656,inf,1018.1558638950289,722.241314651003,1179.0402112087554,inf
+topology_ad_carcinoma_8_clean.csv,inf,inf,inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf,inf,inf,1098.1079297069552
+topology_ad_carcinoma_4_clean.csv,1695.5022545981622,inf,inf,inf,1278.7342230432848,inf,0.0,1232.8194052793433,1362.181995003458,919.0701604232846,inf,864.4090706336367,1038.4335810242712,742.5215414428912,inf
+topology_ad_carcinoma_12_clean.csv,823.6466898497358,inf,inf,inf,677.7732584985838,inf,1232.8194052793433,0.0,598.202202721396,1082.9047934818304,inf,834.9713745742296,732.4060354557456,1115.112863156454,inf
+topology_ad_carcinoma_15_clean.csv,685.0609336272496,inf,inf,inf,693.8415689197616,inf,1362.181995003458,598.202202721396,0.0,1204.0330612838693,inf,959.4052681459918,831.9253213188965,1247.3791197403636,inf
+topology_ad_carcinoma_5_clean.csv,1521.487231709626,inf,inf,inf,1050.2614515744656,inf,919.0701604232846,1082.9047934818304,1204.0330612838693,0.0,inf,1112.429603809146,813.6688201055415,1014.6154382648801,inf
+topology_ad_carcinoma_11_clean.csv,inf,inf,inf,1295.6124845701609,inf,inf,inf,inf,inf,inf,0.0,inf,inf,inf,inf
+topology_ad_carcinoma_6_clean.csv,1311.091785258081,inf,inf,inf,1018.1558638950289,inf,864.4090706336367,834.9713745742296,959.4052681459918,1112.429603809146,inf,0.0,897.3286627176235,658.0808595244756,inf
+topology_ad_carcinoma_7_clean.csv,1076.8369631724602,inf,inf,inf,722.241314651003,inf,1038.4335810242712,732.4060354557456,831.9253213188965,813.6688201055415,inf,897.3286627176235,0.0,1067.2099022674327,inf
+topology_ad_carcinoma_13_clean.csv,1611.9677526993596,inf,inf,inf,1179.0402112087554,inf,742.5215414428912,1115.112863156454,1247.3791197403636,1014.6154382648801,inf,658.0808595244756,1067.2099022674327,0.0,inf
+topology_ad_carcinoma_14_clean.csv,inf,inf,inf,inf,inf,1098.1079297069552,inf,inf,inf,inf,inf,inf,inf,inf,0.0

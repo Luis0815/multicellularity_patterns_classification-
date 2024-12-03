@@ -1,0 +1,16 @@
+# Ignorar archivos CSV grandes
+*.csv
+
+# Ignorar archivos Jupyter Notebook grandes
+*.ipynb
+
+# Ignorar archivos VTK grandes
+*.vtk
+
+# Ignorar archivos en directorios de checkpoints de Jupyter Notebook
+**/.ipynb_checkpoints/*
+
+# Ignorar otros archivos grandes específicos si es necesario
+morfoespacio_dummy/centroides_tipo/persistencia/distancias/*.csv
+morfoespacio_dummy/centroides_tipo/persistencia/distancias/*.ipynb
+codigos/*.ipynb

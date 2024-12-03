@@ -33,7 +33,7 @@ def calcular_rips_y_persistencia(ruta_centroides):
         puntos = np.array(list(zip(centroides_x, centroides_y)))
 
         # Calcular el complejo de Rips con un radio específico
-        rips_complex = gd.RipsComplex(points=puntos, max_edge_length=180)
+        rips_complex = gd.RipsComplex(points=puntos, max_edge_length=200)
         simplex_tree = rips_complex.create_simplex_tree(max_dimension=2)
 
         # Visualizar el complejo de Rips y el diagrama de persistencia
