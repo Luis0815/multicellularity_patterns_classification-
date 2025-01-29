@@ -1,7 +1,4 @@
-# Ignorar archivos CSV grandes
-*.csv
 
-# Ignorar archivos Jupyter Notebook grandes
 *.ipynb
 
 # Ignorar archivos VTK grandes
